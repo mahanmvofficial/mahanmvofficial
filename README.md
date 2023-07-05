@@ -1,16 +1,21 @@
-### Hi there 👋
+## ನಮಸ್ಕಾರ<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="100">
 
-<!--
-**mahanmvofficial/mahanmvofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'am [Mahan](https://github.com/Mahan2006)
 
-Here are some ideas to get you started:
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white)](https://twitter.com/mahanmvofficial/)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white)](https://github.com/mahanmvofficial)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+𝐀𝐁𝐎𝐔𝐓 𝐌𝐄 :
+
+- 👨‍💻 Basically I'am from `Mysuru` & `Hassan`.
+- 👨‍🎓 I'm a College Student : `Computer Science` ❤
+- 🔭 I’m currently working on making things that help my resume to get better!
+- ⚰️ I used to code some unique `Telegram Bots` with Python and C++ at [KannadaRulers](https://t.me/KannadaRulers)
+- 🌱 I’m currently improving my `Python` and `C++` lang skills.And also learning `Web Development`.
+- 🌝 My current field of interest is to learn `Javascript`
+- ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-17-blue) Young 😄
+- 😊 Skills: Nothing 🤧😂
+- 😜 Ask me: Ask about anything i'm familiar with, 🤔Yes btw i know many things in multiple domains 😎
+- Contact me at :-  `Telegram` [Mahan M V](https://t.me/mahanmvofficial) & 
+             `Instagram` [Mahan M V](https://Instagram.com/mahanmvofficial)
