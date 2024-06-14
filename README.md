@@ -11,11 +11,11 @@ I'am [Mahan](https://github.com/Mahan2006)
 - 👨‍💻 Basically I'am from `Mysuru` & `Hassan`.
 - 👨‍🎓 I'm a College Student : `Computer Science` ❤
 - 🔭 I’m currently working on making things that help my resume to get better!
-- ⚰️ I used to code some unique `Telegram Bots` with Python and C++ at [KannadaRulers](https://t.me/KannadaRulers)
-- 🌱 I’m currently improving my `Python` and `C++` lang skills.And also learning `Web Development`.
-- 🌝 My current field of interest is to learn `Javascript`
+- ⚰️ I used to code some unique `Telegram Bots` with Python and C++
+- 🌱 I’m currently improving my `Python` and `C++` lang skills. And also learning `Web Development`.
+- 🌝 My current field of interest is to learn `Java script`
 - ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-17-blue) Young 😄
 - 😊 Skills: Nothing 🤧😂
 - 😜 Ask me: Ask about anything i'm familiar with, 🤔Yes btw i know many things in multiple domains 😎
-- Contact me at :-  `Telegram` [Mahan M V](https://t.me/mahanmvofficial) & 
+- Contact me at :-  `Telegram` [Mahan M V](https://t.me/mahanmvofficial_) & 
              `Instagram` [Mahan M V](https://Instagram.com/mahanmvofficial)
