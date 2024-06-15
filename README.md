@@ -1,6 +1,6 @@
 ## ನಮಸ್ಕಾರ<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="100">
 
-I'am [Mahan](https://github.com/Mahan2006)
+I'am [Mahan](https://github.com/mahanmvofficial)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white)](https://twitter.com/mahanmvofficial/)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white)](https://github.com/mahanmvofficial)
