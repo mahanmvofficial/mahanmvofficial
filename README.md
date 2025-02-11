@@ -8,7 +8,7 @@ I'am [Mahan](https://github.com/mahanmvofficial)
 
 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄 :
 
-- 👨‍💻 Basically I am from `Mysuru` & `Hassan` located at `Karnataka`.
+- 👨‍💻 Basically I am from `Mysuru` & `Hassan` located in `Karnataka`.
 - 👨‍🎓 I'm a College Student : `Computer Science` ❤
 - 🔭 I’m currently working on making things that help my resume to get better!
 - ⚰️ I used to code some unique `Telegram Bots` with Python and C++
