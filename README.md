@@ -12,7 +12,7 @@ I'am [Mahan](https://github.com/mahanmvofficial)
 - 👨‍🎓 I'm a College Student : `Computer Science` ❤
 - 🔭 I’m currently working on making things that help my resume to get better!
 - ⚰️ I used to code some unique `Telegram Bots` with Python and C++
-- 🌱 I’m currently improving my `Python` , `Java` , `C`  and `C++` lang skills. And also learning `Web Development`.
+- 🌱 I’m currently improving my `Python` , `Java` , `C` , `C++` and `C#` lang skills. And also learning `Web Development`.
 - 🌝 My current field of interest is to learn `Java Script`
 - ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-19-blue) years young 😄
 - 😊 Skills: Nothing 🤧😂
