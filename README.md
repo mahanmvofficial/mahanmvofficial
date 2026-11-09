@@ -2,7 +2,7 @@
 
 I'am [Mahan M V](https://github.com/mahanmvofficial)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white)](https://x.com/mahanmvofficial)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mahanmvofficial/)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white)](https://github.com/mahanmvofficial)
 
 
